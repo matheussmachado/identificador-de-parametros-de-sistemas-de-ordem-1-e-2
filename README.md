@@ -110,7 +110,7 @@ https://github.com/matheussmachado/identificador-de-parametros-de-sistemas-de-or
 
 Função de transferência do sistema em tempo contínuo:
 
-![ft-passivo-ord2](https://github.com/matheussmachado/identificador-de-parametros-de-sistemas-de-ordem-1-e-2/assets/63216146/3f26f501-c3a9-4e91-932f-46f5a45c9222)
+![image](https://github.com/matheussmachado/identificador-de-parametros-de-sistemas-de-ordem-1-e-2/assets/63216146/4554907e-15fe-44bc-b020-55ff2de90d7f)
 
 #### Sistema 1 (mais rápido)
 
